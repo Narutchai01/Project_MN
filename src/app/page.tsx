@@ -16,7 +16,6 @@ export default function Home() {
     getMessages();    
   }, []);
 
-console.log(message);
 
   return (
     <div>
